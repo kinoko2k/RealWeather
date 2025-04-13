@@ -1,0 +1,7 @@
+name: RealWeather
+version: '1.0.0'
+main: net.kinoko2k.realweather.RealWeather
+api-version: '1.21'
+load: STARTUP
+authors: [ kinoko1216 ]
+website: https://bento.me/kinoko1216
